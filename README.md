@@ -1,7 +1,13 @@
-## Hi there 👋
+### Hi there 👋
+
+🤓 I'm Jomocool.
+
+![Jomocool's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilin90&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
-**Jomocool/Jomocool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lilin90/lilin90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
